@@ -1,0 +1,13 @@
+.post {
+    width: 80%;
+    height: 30px;
+    border: darkmagenta;
+    margin: 20px;
+
+}
+
+.post img {
+    width: 20px;
+    padding-right: 5px;
+    border-radius: 50%;
+}

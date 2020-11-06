@@ -1,0 +1,10 @@
+.sidebar {
+    grid-area: s;
+    background: black;
+}
+li{
+    color: ghostwhite;
+}
+.active{
+    color: gold;
+}
