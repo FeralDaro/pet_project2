@@ -1,0 +1,80 @@
+C:\my_codes\samurai_path\projects\01_first_project\pet_project2\src\
+|---App.css
+|---App.js
+|---App.test.js
+|---index.css
+|---index.js
+|---logo.svg
+|---serviceWorker.js
+|---setupTests.js
+|---api
+|   `---api.js
+|---assets
+|   `---images
+|       |---loader.svg
+|       `---user.png
+|---Components
+|   |---common
+|   |   |---FormControls
+|   |   |   `---FormControls.js
+|   |   `---Preloader
+|   |       `---Preloader.js
+|   |---Dialogs
+|   |   |---Dialogs.jsx
+|   |   |---Dialogs.module.css
+|   |   |---DialogsContainer.jsx
+|   |   |---DialogItem
+|   |   |   `---DialogItem.jsx
+|   |   `---Message
+|   |       `---Message.jsx
+|   |---Header
+|   |   |---Header.js
+|   |   |---Header.jsx
+|   |   |---Header.module.css
+|   |   `---HeaderContainer.jsx
+|   |---Login
+|   |   `---Login.jsx
+|   |---Navbar
+|   |   |---Navbar.jsx
+|   |   `---Navbar.module.css
+|   |---Profile
+|   |   |---Profile.jsx
+|   |   |---Profile.module.css
+|   |   |---ProfileContainer.jsx
+|   |   |---MyPosts
+|   |   |   |---MyPosts.jsx
+|   |   |   |---MyPosts.module.css
+|   |   |   |---MyPostsContainer.jsx
+|   |   |   `---Post
+|   |   |       |---Post.jsx
+|   |   |       `---Post.module.css
+|   |   `---ProfileInfo
+|   |       |---ProfileInfo.jsx
+|   |       |---ProfileInfo.module.css
+|   |       `---ProfileStatus.jsx
+|   |---Sidebar
+|   |   |---Sidebar.js
+|   |   `---Sidebar.module.css
+|   `---Users
+|       |---Users.jsx
+|       |---users.module.css
+|       `---UsersContainer.jsx
+|---hoc
+|   `---withAuthRedirect.js
+|---redux
+|   |---auth-reducer.js
+|   |---dialogs-reducer.js
+|   |---profile-reducer.js
+|   |---redux-store.js
+|   |---sidebar-reducer.js
+|   |---store.js
+|   |---users-reducer.js
+|   `---state
+|       |---dialogs_reducer.js
+|       |---profile_reducer.js
+|       |---redux-store.js
+|       |---sidebar_reducer.js
+|       `---store.js
+`---utils
+    `---validators
+        `---validators.js
